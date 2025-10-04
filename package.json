@@ -1,0 +1,82 @@
+{
+  "name": "eisenholz-needle-semiconwest",
+  "version": "1.0.0",
+  "description": "EISENHOLZ NeedleSemiconwest - Interactive 3D Experience for SemiconWest powered by Needle Engine",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000",
+    "build": "echo 'Build process handled by Unity/Needle Engine'",
+    "deploy": "gh-pages -d .",
+    "serve": "python -m http.server 8000",
+    "serve:php": "php -S localhost:8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndreeASJ/NeedleSemiconwest.git"
+  },
+  "homepage": "https://andreeasj.github.io/NeedleSemiconwest",
+  "keywords": [
+    "eisenholz",
+    "needle-engine",
+    "unity",
+    "threejs",
+    "webgl",
+    "3d",
+    "interactive",
+    "web3d",
+    "gltf",
+    "webxr",
+    "real-time",
+    "rendering",
+    "semiconwest",
+    "semiconductor",
+    "industrial"
+  ],
+  "author": {
+    "name": "EISENHOLZ",
+    "url": "https://eisenholz.com"
+  },
+  "contributors": [
+    {
+      "name": "AndreeASJ",
+      "url": "https://github.com/AndreeASJ"
+    }
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "serve": "^14.2.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "needle": {
+    "engine": "4.8.9",
+    "unity": "2022.3.62f2",
+    "threejs": "0.169.11",
+    "buildTime": "2025-10-04T19:32:55.180Z"
+  },
+  "eisenholz": {
+    "project": "NeedleSemiconwest",
+    "version": "1.0.0",
+    "description": "Interactive 3D Experience for SemiconWest",
+    "technologies": [
+      "Unity",
+      "Needle Engine",
+      "Three.js",
+      "WebGL",
+      "GLTF"
+    ],
+    "event": "SemiconWest",
+    "industry": "Semiconductor"
+  }
+}
