@@ -1,7 +1,7 @@
 {
   "name": "eisenholz-needle-semiconwest",
-  "version": "1.0.0",
-  "description": "EISENHOLZ NeedleSemiconwest - Interactive 3D Experience for SemiconWest powered by Needle Engine",
+  "version": "2.0.0",
+  "description": "EISENHOLZ NeedleSemiconwest v2.0 - Interactive 3D Experience for SemiconWest powered by Needle Engine",
   "main": "index.html",
   "scripts": {
     "start": "npx serve .",
@@ -63,12 +63,12 @@
     "engine": "4.8.9",
     "unity": "2022.3.62f2",
     "threejs": "0.169.11",
-    "buildTime": "2025-10-04T19:32:55.180Z"
+    "buildTime": "2025-10-05T22:06:46.026Z"
   },
   "eisenholz": {
     "project": "NeedleSemiconwest",
-    "version": "1.0.0",
-    "description": "Interactive 3D Experience for SemiconWest",
+    "version": "2.0.0",
+    "description": "Interactive 3D Experience for SemiconWest v2.0",
     "technologies": [
       "Unity",
       "Needle Engine",

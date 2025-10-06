@@ -1,9 +1,9 @@
-# EISENHOLZ - NeedleSemiconwest
+# EISENHOLZ - NeedleSemiconwest v2.0
 
 <div align="center">
   <img src="./assets/branding/eisenholz-logo-n.png" alt="EISENHOLZ Logo" width="300" />
   
-  **Interactive 3D Experience for SemiconWest powered by Needle Engine**
+  **Interactive 3D Experience for SemiconWest v2.0 powered by Needle Engine**
   
   [![Made with Needle Engine](https://img.shields.io/badge/Made%20with-Needle%20Engine-00D4AA?style=for-the-badge&logo=unity)](https://needle.tools)
   [![Unity](https://img.shields.io/badge/Unity-2022.3.62f2-000000?style=for-the-badge&logo=unity)](https://unity.com)
@@ -13,7 +13,7 @@
 
 ## 🌟 Overview
 
-**NeedleSemiconwest** is an immersive 3D interactive experience developed by EISENHOLZ for SemiconWest, showcasing cutting-edge semiconductor technology and industrial equipment. Built with Unity and exported using Needle Engine, this project demonstrates the power of real-time 3D graphics in modern web browsers for industrial applications.
+**NeedleSemiconwest v2.0** is an enhanced immersive 3D interactive experience developed by EISENHOLZ for SemiconWest, showcasing cutting-edge semiconductor technology and industrial equipment. This updated version features improved performance, optimized assets, and enhanced user experience. Built with Unity and exported using Needle Engine, this project demonstrates the power of real-time 3D graphics in modern web browsers for industrial applications.
 
 ## 🚀 Live Demo
 
@@ -144,10 +144,11 @@ This project includes several optimization techniques:
 
 ## 📊 Build Information
 
-- **Build Time**: 2025-10-04T19:32:55.180Z
-- **Total Size**: ~12.0 MB
+- **Build Time**: 2025-10-05T22:06:46.026Z
+- **Total Size**: ~9.5 MB (optimized from v1.0)
 - **Asset Count**: 68 files
-- **Compression**: Enabled for all assets
+- **Compression**: Enhanced compression for all assets
+- **Version**: 2.0.0
 
 ## 🏭 SemiconWest Integration
 
